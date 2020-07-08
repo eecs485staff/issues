@@ -8,10 +8,25 @@ assignees: ''
 ---
 
 ## Describe the bug
-A clear and concise description of what the bug is.  You might include:
-- A copy-paste of a traceback (prefer text, not screenshot)
-- A quote from the spec
-- A quote from a public unit test
+A clear and concise description of what the bug is.  Here are a few ideas.
+
+A copy-paste of a traceback (prefer text, not screenshot)
+```console
+$ python test.py
+  File "test.py", line 2
+    print(f"x = {x}")
+                   ^
+SyntaxError: invalid syntax
+```
+
+A quote from the source code of a public unit test.
+```python
+def test():
+    print(f"x = {x}")
+```
+
+A quote from the spec
+> Be sure to format your strings.
 
 ## To Reproduce
 Steps to reproduce the behavior.
