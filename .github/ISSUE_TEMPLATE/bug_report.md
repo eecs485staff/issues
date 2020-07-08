@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug in project unit tests, starter files or other code
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
