@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Which project?  Add a GitHub label using the side bar, then delete this.
+
 ## Describe your suggestion
 What do you think we should add?
 

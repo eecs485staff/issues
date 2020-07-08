@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Which project?  Add a GitHub label using the side bar, then delete this.
+
 ## Describe the bug
 A clear and concise description of what the bug is.  Here are a few ideas.
 

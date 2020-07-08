@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Which project?  Add a GitHub label using the side bar, then delete this.
+
 ## Current language
 Copy paste the part of the spec with the problem.  Pro-tip: use the `>` character to format a quote.
 
