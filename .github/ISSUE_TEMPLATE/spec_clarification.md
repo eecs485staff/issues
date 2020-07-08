@@ -2,7 +2,7 @@
 name: Spec clarification
 about: Report an spec error or ambiguity
 title: ''
-labels: 'documentation'
+labels: 'spec'
 assignees: ''
 
 ---
